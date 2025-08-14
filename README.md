@@ -28,17 +28,19 @@ Built with a focus on simplicity, automation, and actionable advice.
 
 ## 📦 Installation
 
-``` **Clone the repository**
+ **Clone the repository**
  
 1. Install dependencies
-    
+```   
   npm install
-
+```
 2. Setup and Run database migrations
+```
   npm run db:generate
   npm run db:migrate
-
-3. Start the development server
+```
+4. Start the development server
+```
    npm run dev
 ```
   
