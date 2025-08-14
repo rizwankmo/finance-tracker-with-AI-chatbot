@@ -28,7 +28,7 @@ Built with a focus on simplicity, automation, and actionable advice.
 
 ## 📦 Installation
 
- **Clone the repository**
+``` **Clone the repository**
  
 1. Install dependencies
     
@@ -40,5 +40,5 @@ Built with a focus on simplicity, automation, and actionable advice.
 
 3. Start the development server
    npm run dev
-
+```
   
